@@ -1,0 +1,26 @@
+build thick shell out of chosen material listed in "shell options.txt" 
+
+outer structure is 40' x 60' x 40' (H x W x D)
+
+potential for basement if wanted, but only under part of the building
+
+idea is to build an outer shell so as to have warehouse/soundstage space, but
+then build a small dwelling unit inside.
+
+Bring in 120/208V 3ø power at minimum, 277/480V 3ø prefered as well. 
+
+work lights will be LED high bay lights mounted inside the roof trusses.
+Each fixture will be controlled by an indivdual relay, allowing for the
+individual control of fixtures
+
+roof and walls shall be overbuilt to allow for simulateous live loads of 5 tons
+on at least 4 corners of truss, as well as centers, if not on thirds or quarters.
+
+Semi Permanent Grid of truss shall be constructed and hung from chain hoists 
+attached to previously mentioned rigging points as mounting platform for AV equipment.
+Control of chain hoists shall be a portable system, not one permanently installed
+in the facility.
+
+most of facility will be dedicated to an open plan for projects. However a small
+house will be constructed as a living area and a place to have a library.
+
